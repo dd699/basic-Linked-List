@@ -69,6 +69,8 @@ LC383：（随想录）给你两个字符串：ransomNote 和 magazine ，判断
 
 LC15:(随想录)给你一个整数数组 nums ，判断是否存在三元组 [nums[i], nums[j], nums[k]] 满足 i != j、i != k 且 j != k ，同时还满足 nums[i] + nums[j] + nums[k] == 0 。请你返回所有和为 0 且不重复的三元组。
 
+LC142:(随想录)给定一个链表的头节点  head ，返回链表开始入环的第一个节点。 如果链表无环，则返回 null。
+
 
 
 
